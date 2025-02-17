@@ -1,12 +1,12 @@
 
 # hostname to publish to
-hostname: "web1492.klaud.online"
-cptoken:
+hostname: "autowaf.cogiel.tech"
+cptoken: 
 
 # Lets encrypt cluster issuer
 
 letsencrypt:
   # Lets encrypt certificate issuer user
-  email: "microk8s@example.com"
+  email: "krzysztofc@checkpoint.com"
   # secret used to store Lets encrypt account's private key
   secret: lets-encrypt-priviate-key
